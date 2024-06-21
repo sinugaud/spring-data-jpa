@@ -1,3 +1,4 @@
+//This is comment
 package com.sinugaud.springbootdatajpa;
 
 import org.springframework.boot.SpringApplication;
